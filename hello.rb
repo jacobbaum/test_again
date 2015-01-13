@@ -1,1 +1,1 @@
- puts 'Hello, General Assembly'
+ puts 'Hello, WDI'
